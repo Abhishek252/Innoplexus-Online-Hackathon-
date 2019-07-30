@@ -1,5 +1,3 @@
-# Innoplexus-Online-Hackathon
-Innoplexus online Hackathon on Sentiment Analysis
 # Innoplexus Online Hiring Hackathon: Sentiment Analysis
 
 ## Problem Statement

@@ -52,5 +52,5 @@ The final rankings would be based on your private score which will be published 
 # Leaderboard
 
 
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon/lb)** : **185th/735 Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon/pvt_lb)** : **107th/735 Rank**
+* **[Public LB](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon/lb)** : **185th/3260 Rank**
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon/pvt_lb)** : **107th/3260 Rank**
